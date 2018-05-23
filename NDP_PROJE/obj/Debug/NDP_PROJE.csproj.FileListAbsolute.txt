@@ -1,0 +1,10 @@
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\bin\Debug\NDP_PROJE.exe.config
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\bin\Debug\NDP_PROJE.exe
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\bin\Debug\NDP_PROJE.pdb
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.csprojResolveAssemblyReference.cache
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.Form1.resources
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.Properties.Resources.resources
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.csproj.GenerateResource.Cache
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.csproj.CoreCompileInputs.cache
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.exe
+C:\Users\MELIH\desktop\NDP_PROJE\NDP_PROJE\obj\Debug\NDP_PROJE.pdb
